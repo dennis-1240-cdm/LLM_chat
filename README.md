@@ -1,7 +1,7 @@
 #  Fine-Tuning DeepSeek-R1-Distill-Qwen-1.5B on data Vietnamese Philosophy QA
-###
+##
 
-## Main.py 
+## How to run the model
 ```bash
-How to run: python main.py
+python main.py
 ```
