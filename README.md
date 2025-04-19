@@ -2,6 +2,6 @@
 ###
 
 ## Main.py 
-'''bash
-Run the script: python main.py
-'''
+```bash
+How to run: python main.py
+```
